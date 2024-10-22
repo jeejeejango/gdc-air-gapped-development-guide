@@ -5,11 +5,11 @@ Managed objects in the Google Distributed Cloud (GDC) air-gapped storage buckets
 ## Table of Content
 - [Prerequisite](#prerequisite)
 - [IAM](#iam)
-- [Known Issues](#known-issue)
-- [Create a bucket](#create-a-bucket)
-- [Create a WORM bucket](#create-a-worm-bucket)
-- [List storage buckets](#list-storage-buckets)
-- [Delete a bucket](#delete-storage-bucket)
+- [Upload objects to storage buckets](#upload-objects-to-storage-buckets)
+- [Download objects from storage buckets](#download-objects-from-storage-buckets)
+- [List objects in storage buckets](#list-objects-in-storage-buckets)
+- [Copy, modify, and move objects](#copy-modify-and-move-objects)
+- [Known Issue](#known-issue)
 
 ## Prerequisite
 - A valid [bucket](/docs/object-storage.md) 
