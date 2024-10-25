@@ -11,7 +11,8 @@ Grant and obtain access for Google Distributed Cloud (GDC) air-gapped storage bu
 - [View bucket configurations](#view-bucket-configurations)
 - [Delete a bucket](#delete-storage-bucket)
 - [Manage objects](/docs/manage-object.md)
-- [Known Issue](#known-issue)
+- [Known Issues](#known-issues)
+- [References](#references)
 
 ## Prerequisite
 - Valid project with IAM permissions
@@ -98,10 +99,13 @@ subjects:
 2. Click Delete at the end of the row of the bucket to be deleted.
 3. t a few minutes and refresh the page to check that the bucket is deleted.
 
-## Known Issue
+## Known Issues
 - You can only specify the Encrpytion v1 or v2 using CLI
+
+## References
+- [Create storage buckets for projects](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/create-storage-buckets)
+- [View and list storage bucket configurations](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/list-view-storage-buckets)
+- [Delete storage buckets for projects](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/delete-storage-buckets)
 
 ---
 [Top](#) | [Home](/README.md) | [Manage object](/docs/manage-object.md)
-
-[Source](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/create-storage-buckets) | [Source](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/list-view-storage-buckets) | [Source](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/delete-storage-buckets)

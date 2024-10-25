@@ -9,7 +9,8 @@ Managed objects in the Google Distributed Cloud (GDC) air-gapped storage buckets
 - [Download objects from storage buckets](#download-objects-from-storage-buckets)
 - [List objects in storage buckets](#list-objects-in-storage-buckets)
 - [Copy, modify, and move objects](#copy-modify-and-move-objects)
-- [Known Issue](#known-issue)
+- [Known Issues](#known-issues)
+- [References](#references)
 
 ## Prerequisite
 - A valid [bucket](/docs/object-storage.md) 
@@ -55,7 +56,15 @@ Move an object:
 ```bash
 gdcloud storage mv s3://BUCKET1/OBJECT1 s3://BUCKET2[/OBJECT2]
 ```
+
+## Known Issues
+N/A
+
+## References
+- [Upload and download storage objects in projects](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/upload-download-storage-objects)
+- [List storage objects in projects](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/list-storage-objects) 
+- [Copy, modify, and move storage objects in projects](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/copy-mod-storage-objects)
+
+
 ---
 [Top](#) | [Home](/README.md) | [Object Storage](/docs/object-storage.md) 
-
-[Source](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/upload-download-storage-objects) | [Source](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/list-storage-objects) | [Source](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/copy-mod-storage-objects)

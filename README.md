@@ -14,5 +14,5 @@ For more information, refer to the official [GDC air-gapped documentation](https
 - [Object Storage](/docs/object-storage.md)
 - [Organization Firewall Policy]()
 - [Vertex AI Workbench](/docs/vertex-ai-workbench.md)
-- [Vertex AI Pretrained APIS]()
+- [Vertex AI pre-trained APIs](/docs/vertex-ai-pretained-api.md)
 - [Benchmark]()

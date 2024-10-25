@@ -8,7 +8,8 @@ Vertex AI Workbench is a single development environment used for the entire data
 - [Create a JupyterLab instance](#create-a-jupyterlab-instance)
 - [Open a JupyterLab notebook](#open-a-jupyterlab-notebook)
 - [Share a JupyterLab notebook](#share-a-jupyterlab-notebook)
-- [Known Issue](#known-issue)
+- [Known Issues](#known-issues)
+- [References](#references)
 
 ## Prerequisite
 - Valid project with IAM permissions
@@ -46,10 +47,12 @@ To share a JupyterLab notebook, do the following:
 2. Confirm the person you want to share the JupyterLab notebook with is bound to the Workbench Notebooks Viewer role. For more information, see Grant IAM permission to open a JupyterLab notebook.
 3. Share the URL of the JupyterLab notebook with the person you want to open the JupyterLab notebook.
 
-## Known Issue
+## Known Issues
 If you encountered 404: Not Found error when opening a JupyterLab notebook, please remove [/lab]() from the URL in the browser.
+
+## References
+- [Create a notebook](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/vertex-ai-workbench)
+- [Back up and restore notebook data](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/backup-restore-notebook-data)
 
 ---
 [Top](#) | [Home](/README.md)
-
-[Source](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/vertex-ai-workbench)
