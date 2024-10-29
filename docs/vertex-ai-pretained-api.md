@@ -69,4 +69,4 @@ N/A
 - [View service status and endpoints](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/application/ao-user/vertex-ai-api-status)
 
 ---
-[Top](#) | [Home](/README.md)
+[Top](#) | [Home](/README.md) | [OCR](/docs/vertex-ai-pretained-ocr.md)
