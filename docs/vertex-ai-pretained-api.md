@@ -61,7 +61,6 @@ Follow these steps to view the status and endpoints of the Optical Character Rec
 - If the status of an API is Enabled, you can view its endpoint on the central panel. To use this endpoint for programmatically interacting with the Vertex AI service, click content_copy Copy to copy it to your clipboard.
 
 
-
 ## Known Issues
 N/A
 
