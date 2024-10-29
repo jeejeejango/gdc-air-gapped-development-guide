@@ -1,4 +1,4 @@
-# 
+# Vertex AI pre-trained APIs - OCR Example
 
 ## Table of Content
 - [Prerequisite](#prerequisite)

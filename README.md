@@ -5,14 +5,17 @@ This guide provides a quickstart guide for application development and deploymen
 For more information, refer to the official [GDC air-gapped documentation](https://cloud.google.com/distributed-cloud/hosted/docs/latest/gdch/overview).
 
 ## Table of Content
-- [Organization IAM]()
-- [Create user cluster]()
-- [Create Project]()
-- [Project IAM]()
-- [Virtual Machine]()
-- [Database]()
+- Organization IAM
+- Create user cluster
+- Create Project
+- Project IAM
+- Firewall Policy
+- Container
+- Virtual Machine
+- Database
 - [Object Storage](/docs/object-storage.md)
-- [Organization Firewall Policy]()
+    - [Manage objects](/docs/manage-object.md) 
 - [Vertex AI Workbench](/docs/vertex-ai-workbench.md)
 - [Vertex AI pre-trained APIs](/docs/vertex-ai-pretained-api.md)
-- [Benchmark]()
+    - [Vertex AI pre-trained APIs - OCR Example](/docs/vertex-ai-pretained-ocr.md) 
+- Benchmark
