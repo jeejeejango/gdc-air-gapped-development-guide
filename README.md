@@ -18,4 +18,6 @@ For more information, refer to the official [GDC air-gapped documentation](https
 - [Vertex AI Workbench](/docs/vertex-ai-workbench.md)
 - [Vertex AI pre-trained APIs](/docs/vertex-ai-pretained-api.md)
     - [Vertex AI pre-trained APIs - OCR Example](/docs/vertex-ai-pretained-ocr.md) 
+    - [Vertex AI pre-trained APIs - Speech-to-Text Example](/docs/vertex-ai-pretained-stt.md) 
+    - [Vertex AI pre-trained APIs - Translation Example](/docs/vertex-ai-pretained-translate.md) 
 - Benchmark
